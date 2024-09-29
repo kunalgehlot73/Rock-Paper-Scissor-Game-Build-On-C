@@ -24,17 +24,17 @@ int main()
         else if (player == 0 && computer == 1)
         {
             printf("U chose %s and computer chose %s\n", myarr[0], myarr[1]);
-            printf("Ohh hell naww! Blud lost to a computer!\n\n");
+            printf("Sorry! U lost to the computer!\n\n");
         }
         else if (player == 0 && computer == 2)
         {
             printf("U chose %s and computer chose %s\n", myarr[0], myarr[2]);
-            printf("Less go you beat the computer's ass!\n\n");
+            printf("Less go you beat the computer!\n\n");
         }
         else if (player == 1 && computer == 0)
         {
             printf("U chose %s and computer chose %s\n", myarr[1], myarr[0]);
-            printf("Less go you beat the computer's ass!\n\n");
+            printf("Less go you beat the computer!\n\n");
         }
         else if (player == 1 && computer == 1)
         {
@@ -44,17 +44,17 @@ int main()
         else if (player == 1 && computer == 2)
         {
             printf("U chose %s and computer chose %s\n", myarr[1], myarr[2]);
-            printf("Ohh hell naww! Blud lost to a computer!\n\n");
+            printf("Sorry! U lost to the computer!\n\n");
         }
         else if (player == 2 && computer == 0)
         {
             printf("U chose %s and computer chose %s\n", myarr[2], myarr[0]);
-            printf("Ohh hell naww! Blud lost to a computer!\n\n");
+            printf("Sorry! U lost to the computer!\n\n");
         }
         else if (player == 2 && computer == 1)
         {
             printf("U chose %s and computer chose %s\n", myarr[2], myarr[1]);
-            printf("Less go you beat the computer's ass!\n\n");
+            printf("Less go you beat the computer!\n\n");
         }
         else if (player == 2 && computer == 2)
         {
